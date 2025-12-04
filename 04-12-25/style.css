@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+}
+
+p{
+    padding-top: 5px;
+    font-size: 5px;
+    text-align: center;
+}
